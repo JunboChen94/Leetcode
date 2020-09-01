@@ -1,0 +1,2 @@
+# Leetcode
+# start with array
