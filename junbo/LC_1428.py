@@ -18,6 +18,7 @@ def leftMostColumnWithOne(self, binaryMatrix: 'BinaryMatrix') -> int:
     '''
     Mine is better, do not need to run full binary for each every row
     binary search need to find first column where there exist row making [row, column] none zero
+    O(MlogN)
     '''
     H, W = binaryMatrix.dimensions()
     candidate_rows = list(range(H))
@@ -31,3 +32,17 @@ def leftMostColumnWithOne(self, binaryMatrix: 'BinaryMatrix') -> int:
         else:
             l = mid + 1
     return (-1, r)[r < W]
+    
+    '''
+    Maze like solution O(M+N)
+    '''
+    M, N = binaryMatrix.dimensions()
+    r, c = 0, N - 1
+    ret = -1
+    while r < M and c >= 0:
+        if binaryMatrix.get(r, c):
+            ret = c
+            c -= 1
+        else:
+            r += 1
+    return ret
