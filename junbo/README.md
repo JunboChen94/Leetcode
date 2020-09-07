@@ -11,3 +11,11 @@ LC_5: Longest Palindrome Substring; LC_9: Palindrome number; LC_680: Valid Palin
 **Tree**: <br />
 LC_102: Binary Tree Level Order Traversal 
 
+**String/Array Causal-Related:** <br />
+LC_13: Roman to Integer; 
+
+**HashTable:** <br />
+LC_1: two sum; LC_560: Subarray Sum Equals K;
+
+
+
