@@ -52,7 +52,7 @@ def productExceptSelf(self, nums: List[int]) -> List[int]:
     return output
     
     '''
-    use the following
+    use the following more concise version
     '''
     ret = list(accumulate([1]+nums, operator.mul))[:-1]
     right = 1
