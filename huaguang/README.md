@@ -1,2 +1,2 @@
 # Leetcode
-# start with array
+# start with array    9/7/20 medium
