@@ -5,6 +5,10 @@ def addBinary(self, a: str, b: str) -> str:
     or we can make
     appends = list(a), list(b)
     int(x[-i]) -> pop(x)
+    group:
+    LC_2: add two number
+    LC_415: add string
+    LC_67: add binary
     '''
     ret = []
     addends = a, b
