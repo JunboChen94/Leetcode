@@ -20,5 +20,8 @@ LC_1: Two Sum; LC_560: Subarray Sum Equals K;
 **Two Pointers**  <br />
 **1) two sides toward middle:** LC_15: 3Sum; LC_11: Container With Most Water;
 
+**Tries**  <br />
+LC_211: Design Add and Search Words Data Structure
+
 
 
