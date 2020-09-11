@@ -23,5 +23,14 @@ LC_1: Two Sum; LC_560: Subarray Sum Equals K;
 **Tries**  <br />
 LC_211: Design Add and Search Words Data Structure
 
+**Sliding Window:** <br />
+**1) Counter:**  LC_438:Find All Anagram in a String
+
+**Binary Search:** <br />
+LC_278: First Bad version
+
+
+
+
 
 
