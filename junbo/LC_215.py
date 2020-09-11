@@ -12,7 +12,7 @@ class Solution:
             return nums[pos]
     
     def partition(self, nums: List[int], l: int, r: int) -> int:
-        index = random.randint(0, len(nums) - 1)
+        index = random.randint(l, r)
         nums[index], nums[r] = nums[r], nums[index]
         pivot = nums[r]
         lo = l 
