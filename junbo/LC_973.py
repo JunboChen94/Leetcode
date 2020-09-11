@@ -50,3 +50,37 @@ def kClosest(self, points: List[List[int]], K: int) -> List[List[int]]:
             left = mid + 1
     return points[:K]
     
+    '''
+    recursive
+    '''
+    class Solution:
+    def kClosest(self, points: List[List[int]], K: int) -> List[List[int]]:
+        '''
+        Use quick-select, T(n) = (T/2) + O(n), so it is O(n)
+        '''
+        self.sort(points, 0, len(points) - 1, K)
+        return points[:K]
+    
+    
+    def sort(self, points, l, r, K):
+        if l < r:
+            p = self.partition(points, l, r)
+            if p == K:
+                return
+            elif p < K:
+                self.sort(points, p+1, r, K)
+            else:
+                self.sort(points, l, p-1, K)
+    
+    def partition(self, points, left, right):
+        index = random.randint(left, right)
+        points[index], points[right] = points[right], points[index]
+        pivot_dist = points[right][0]**2 + points[right][1]**2
+        p = left
+        for q in range(left, right):
+            if points[q][0]**2 + points[q][1]**2 <= pivot_dist:
+                points[p], points[q] = points[q], points[p]
+                p += 1
+        points[p], points[right] = points[right], points[p]
+        return p
+    
