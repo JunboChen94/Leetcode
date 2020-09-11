@@ -32,6 +32,9 @@ LC_278: First Bad version
 **Binary Search Tree:** <br />
 LC_938: Range Sum of BST
 
+**Quick Select**: <br />
+LC_215: Kth Largest Element in an Array; LC_973: K Cloest Points to Origin
+
 
 
 
