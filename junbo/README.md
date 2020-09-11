@@ -29,6 +29,9 @@ LC_211: Design Add and Search Words Data Structure
 **Binary Search:** <br />
 LC_278: First Bad version
 
+**Binary Search Tree:** <br />
+LC_938: Range Sum of BST
+
 
 
 
