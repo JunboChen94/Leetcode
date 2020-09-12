@@ -36,7 +36,7 @@ LC_938: Range Sum of BST
 LC_215: Kth Largest Element in an Array; LC_973: K Cloest Points to Origin
 
 #### Stack
-[Parentheses questions](####parentheses); LC_636: Exclusive Time of Functions
+[Parentheses questions](#parentheses); LC_636: Exclusive Time of Functions
 
 
 
