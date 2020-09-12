@@ -2,7 +2,7 @@
 **Add number:**<br />
 LC_2: Add Two Number; LC_415: Add String; LC_67: Add Binary
 
-**Parentheses:**<br />
+**Parentheses:**<br /> #heading-parentheses
 LC_20: Valid Paranthesis; 
 
 **Palindrome:**<br />
@@ -35,6 +35,8 @@ LC_938: Range Sum of BST
 **Quick Select**: <br />
 LC_215: Kth Largest Element in an Array; LC_973: K Cloest Points to Origin
 
+**Stack**: <br />
+[Parentheses questions](#heading-parentheses); LC_636: Exclusive Time of Functions
 
 
 
