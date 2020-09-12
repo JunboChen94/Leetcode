@@ -15,7 +15,7 @@ LC_5: Longest Palindrome Substring; LC_9: Palindrome number; LC_680: Valid Palin
 LC_13: Roman to Integer; 
 
 #### HashTable
-LC_1: Two Sum; LC_560: Subarray Sum Equals K;
+**1) sub array:** LC_1: Two Sum; LC_560: Subarray Sum Equals K; LC_523:Continuous Subrrary Sum
 
 #### Two Pointers
 **1) two sides toward middle:** LC_15: 3Sum; LC_11: Container With Most Water;
