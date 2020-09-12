@@ -1,42 +1,42 @@
 # Leetcode-Junbo-Note
-**Add number:**<br />
+#### Add number
 LC_2: Add Two Number; LC_415: Add String; LC_67: Add Binary
 
-**Parentheses:**<br /> #heading-parentheses
+#### Parentheses
 LC_20: Valid Paranthesis; 
 
-**Palindrome:**<br />
+#### Palindrome
 LC_5: Longest Palindrome Substring; LC_9: Palindrome number; LC_680: Valid Palindrome; 
 
-**Tree**: <br />
+#### Tree 
 **1) level-order:**  LC_102: Binary Tree Level Order Traversal; LC_199: Binary Tree rigfht Side View; 
 
-**String/Array Causal-Related:** <br />
+#### String/Array Causal-Related
 LC_13: Roman to Integer; 
 
-**HashTable:** <br />
+#### HashTable
 LC_1: Two Sum; LC_560: Subarray Sum Equals K;
 
-**Two Pointers**  <br />
+#### Two Pointers
 **1) two sides toward middle:** LC_15: 3Sum; LC_11: Container With Most Water;
 
-**Tries**  <br />
+#### Tries
 LC_211: Design Add and Search Words Data Structure
 
-**Sliding Window:** <br />
+#### Sliding Window
 **1) Counter:**  LC_438:Find All Anagram in a String
 
-**Binary Search:** <br />
+#### Binary Search
 LC_278: First Bad version
 
-**Binary Search Tree:** <br />
+#### Binary Search Tree
 LC_938: Range Sum of BST
 
-**Quick Select**: <br />
+#### Quick Select
 LC_215: Kth Largest Element in an Array; LC_973: K Cloest Points to Origin
 
-**Stack**: <br />
-[Parentheses questions](#heading-parentheses); LC_636: Exclusive Time of Functions
+#### Stack
+[Parentheses questions](####parentheses); LC_636: Exclusive Time of Functions
 
 
 
