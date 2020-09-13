@@ -8,8 +8,10 @@ LC_20: Valid Paranthesis;
 #### Palindrome
 **1) two pointer:** LC_5: Longest Palindrome Substring; LC125: LC_680: Valid Palindrome;   <br />
 LC_9: Palindrome number; 
+
 #### Tree 
-**1) level-order:**  LC_102: Binary Tree Level Order Traversal; LC_199: Binary Tree rigfht Side View; 
+**1) level-order:**  LC_102: Binary Tree Level Order Traversal; LC_199: Binary Tree rigfht Side View; <br />
+**2) In-order:** LC_94: Binary Tree Inorder Traversal;
 
 #### String/Array Causal-Related
 LC_13: Roman to Integer; 
