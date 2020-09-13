@@ -6,8 +6,8 @@ LC_2: Add Two Number; LC_415: Add String; LC_67: Add Binary
 LC_20: Valid Paranthesis; 
 
 #### Palindrome
-LC_5: Longest Palindrome Substring; LC_9: Palindrome number; LC_680: Valid Palindrome; 
-
+**1) two pointer:** LC_5: Longest Palindrome Substring; LC125: LC_680: Valid Palindrome;   <br />
+LC_9: Palindrome number; 
 #### Tree 
 **1) level-order:**  LC_102: Binary Tree Level Order Traversal; LC_199: Binary Tree rigfht Side View; 
 
