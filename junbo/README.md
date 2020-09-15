@@ -19,7 +19,8 @@ LC_9: Palindrome number;
 LC_13: Roman to Integer; 
 
 #### HashTable
-**1) sub array:** LC_1: Two Sum; LC_560: Subarray Sum Equals K; LC_523:Continuous Subrrary Sum
+**1) sum:** LC_1: Two Sum; LC_560: Subarray Sum Equals K; LC_523:Continuous Subrrary Sum <br />
+**1) sliding window/counter:**  LC_438:Find All Anagram in a String; LC_159:  Longest Substring with At Most Two Distinct Characters
 
 #### Two Pointers
 **1) two sides toward middle:** LC_15: 3Sum; LC_11: Container With Most Water;
@@ -27,8 +28,6 @@ LC_13: Roman to Integer;
 #### Tries
 LC_211: Design Add and Search Words Data Structure
 
-#### Sliding Window
-**1) Counter:**  LC_438:Find All Anagram in a String
 
 #### Binary Search
 LC_278: First Bad version
