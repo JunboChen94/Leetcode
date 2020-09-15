@@ -19,7 +19,7 @@ LC_9: Palindrome number;
 LC_13: Roman to Integer; 
 
 #### HashTable
-**1) sum:** LC_1: Two Sum; LC_560: Subarray Sum Equals K; LC_523:Continuous Subrrary Sum <br />
+**1) sum:** LC_1: Two Sum; LC_560: Subarray Sum Equals K; LC_523:Continuous Subrrary Sum; LC_242: Valid Anagram <br />
 **1) sliding window/counter:**  LC_438:Find All Anagram in a String; LC_159:  Longest Substring with At Most Two Distinct Characters
 
 #### Two Pointers
