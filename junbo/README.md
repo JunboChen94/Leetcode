@@ -33,7 +33,7 @@ LC_211: Design Add and Search Words Data Structure
 LC_278: First Bad version
 
 #### Binary Search Tree
-LC_938: Range Sum of BST
+LC_938: Range Sum of BST; LC_528: Random Pick with Weight. 
 
 #### Quick Select
 LC_215: Kth Largest Element in an Array; LC_973: K Cloest Points to Origin
