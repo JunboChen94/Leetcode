@@ -44,6 +44,9 @@ LC_215: Kth Largest Element in an Array; LC_973: K Cloest Points to Origin
 #### Sort
 LC_937: Reorder Data in Log Files
 
+#### Reservoir Sampling 
+LC_398: Random Pick Index
+
 
 
 
