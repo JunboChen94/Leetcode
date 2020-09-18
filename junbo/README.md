@@ -1,6 +1,7 @@
 # Leetcode-Junbo-Note
-#### Add number
-LC_2: Add Two Number; LC_415: Add String; LC_67: Add Binary
+#### Add/Merge
+**1) add number:**LC_2: Add Two Number; LC_415: Add String; LC_67: Add Binary; <br />
+**2) merge array:**LC_88: Merge Sorted Array; 
 
 #### Parentheses
 LC_20: Valid Paranthesis; 
