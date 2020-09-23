@@ -11,7 +11,7 @@ LC_20: Valid Paranthesis;
 LC_9: Palindrome number; 
 
 #### Tree 
-**1) level-order:**  LC_102: Binary Tree Level Order Traversal; LC_199: Binary Tree rigfht Side View; LC_987: Vertical Order Traversal of a Binary Tree <br />
+**1) level-order:**  LC_102: Binary Tree Level Order Traversal; LC_199: Binary Tree rigfht Side View; LC_987: Vertical Order Traversal of a Binary Tree;  LC_339: Nested List Weight Sum<br />
 **2) In-order:** LC_94: Binary Tree Inorder Traversal; LC_173; Binary Search Tree Iterator; LC_404: Sum of Left Leaves<br />
 **3) Pre-order:** LC_144: Binary Tree Preorder Traversal; <br />
 **3) Post-order:** LC_145: Binary Tree Postorder Traversal; 
@@ -47,6 +47,12 @@ LC_937: Reorder Data in Log Files
 
 #### Reservoir Sampling [link](https://zhuanlan.zhihu.com/p/29178293)
 LC_398: Random Pick Index; LC_382: Linked List Random Node
+
+####  Array + Math
+LC_670: Maximum Swap
+
+#### Backtracing:
+LC_543: Diameter of Binary Tree; 
 
 
 
