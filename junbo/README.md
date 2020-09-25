@@ -16,6 +16,9 @@ LC_9: Palindrome number;
 **3) Pre-order:** LC_144: Binary Tree Preorder Traversal; <br />
 **3) Post-order:** LC_145: Binary Tree Postorder Traversal; 
 
+#### DFS + Union Find 
+LC_200: Number of Islands;
+
 #### String/Array Causal-Related
 LC_13: Roman to Integer; 
 
