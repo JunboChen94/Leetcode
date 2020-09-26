@@ -27,7 +27,9 @@ LC_13: Roman to Integer;
 **1) sliding window/counter:**  LC_438:Find All Anagram in a String; LC_159:  Longest Substring with At Most Two Distinct Characters
 
 #### Two Pointers
-**1) two sides toward middle:** LC_15: 3Sum; LC_11: Container With Most Water;
+**1) two sides toward middle:** LC_15: 3Sum; LC_11: Container With Most Water; </br>
+**2) ** : LC_763: Partition Labels
+
 
 #### Tries
 LC_211: Design Add and Search Words Data Structure
