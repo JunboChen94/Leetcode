@@ -65,6 +65,9 @@ LC_198: House Robber;
 #### MAX-HEAP:
 LC_692. Top K Frequent Words; LC_973: K Cloest Points to Origin;
 
+#### Design:
+146_LRU Cache (LinkedList + HashTable)
+
 
 
 
