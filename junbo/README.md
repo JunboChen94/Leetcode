@@ -48,7 +48,7 @@ LC_215: Kth Largest Element in an Array; LC_973: K Cloest Points to Origin
 [Parentheses questions](#parentheses); LC_636: Exclusive Time of Functions
 
 #### Sort
-LC_937: Reorder Data in Log Files; LC-692. Top K Frequent Words; 
+LC_937: Reorder Data in Log Files; LC-692. Top K Frequent Words; LC_1152: Analyze User Website Visit Pattern
 
 #### Reservoir Sampling [link](https://zhuanlan.zhihu.com/p/29178293)
 LC_398: Random Pick Index; LC_382: Linked List Random Node
@@ -68,6 +68,8 @@ LC_692. Top K Frequent Words; LC_973: K Cloest Points to Origin;
 #### Design:
 146_LRU Cache (LinkedList + HashTable)
 
+#### Ragex:
+LC_819: Most Common Word
 
 
 
