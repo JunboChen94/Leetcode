@@ -34,7 +34,7 @@ LC_239: Sliding Window Maximum:  [discuss](https://www.geeksforgeeks.org/sliding
 LC_1425: Constrained Subsequence Sum [discuss](https://leetcode.com/problems/constrained-subsequence-sum/discuss/597751/JavaC%2B%2BPython-O(N)-Decreasing-Deque); <br />
 LC_1438: Longest Continuous Subarray With Absolute Diff Less Than or Equal to Limit [discuss](https://leetcode.com/problems/longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit/discuss/609771/JavaC%2B%2BPython-Deques-O(N)); <br /> 
 LC_1358: Number of Substrings Containing All Three Characters [discuss](https://leetcode.com/problems/number-of-substrings-containing-all-three-characters/discuss/516977/JavaC%2B%2BPython-Easy-and-Concise); <br />
-LC_1248: Count Number of Nice Subarrays [discuss](https://leetcode.com/problems/count-number-of-nice-subarrays/discuss/419378/JavaC%2B%2BPython-Sliding-Window-O(1)-Space) (atMost);
+LC_1248: Count Number of Nice Subarrays [discuss](https://leetcode.com/problems/count-number-of-nice-subarrays/discuss/419378/JavaC%2B%2BPython-Sliding-Window-O(1)-Space) (atMost); <br />
 LC_992: Subarrays with K Different Integers (atMost);
 
 
