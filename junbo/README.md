@@ -30,7 +30,11 @@ LC_13: Roman to Integer; LC_819:  Most Common Word;
 **1) two sides toward middle:** LC_15: 3Sum; LC_11: Container With Most Water; </br>
 **2) ** : LC_763: Partition Labels </br>
 **3)**[slidinhg window summary: deque ](https://leetcode.com/problems/longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit/discuss/609771/JavaC%2B%2BPython-Deques-O(N)) 
-LC_239: Sliding Window Maximum:  [link](https://www.geeksforgeeks.org/sliding-window-maximum-maximum-of-all-subarrays-of-size-k/); LC_1425: Constrained Subsequence Sum [discuss]; 1438_Longest Continuous Subarray With Absolute Diff Less Than or Equal to Limit [discuss]; LC_1358: Number of Substrings Containing All Three Characters [discuss]; 1248. Count Number of Nice Subarrays [discuss]; 
+LC_239: Sliding Window Maximum:  [link](https://www.geeksforgeeks.org/sliding-window-maximum-maximum-of-all-subarrays-of-size-k/); <br />
+LC_1425: Constrained Subsequence Sum [discuss](https://leetcode.com/problems/constrained-subsequence-sum/discuss/597751/JavaC%2B%2BPython-O(N)-Decreasing-Deque); <br />
+LC_1438: Longest Continuous Subarray With Absolute Diff Less Than or Equal to Limit [discuss](https://leetcode.com/problems/longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit/discuss/609771/JavaC%2B%2BPython-Deques-O(N)); <br /> 
+LC_1358: Number of Substrings Containing All Three Characters [discuss](https://leetcode.com/problems/number-of-substrings-containing-all-three-characters/discuss/516977/JavaC%2B%2BPython-Easy-and-Concise); <br />
+LC_1248: Count Number of Nice Subarrays [discuss](https://leetcode.com/problems/count-number-of-nice-subarrays/discuss/419378/JavaC%2B%2BPython-Sliding-Window-O(1)-Space); 
 
 
 #### Tries
