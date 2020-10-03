@@ -30,7 +30,7 @@ LC_13: Roman to Integer; LC_819:  Most Common Word;
 **1) two sides toward middle:** LC_15: 3Sum; LC_11: Container With Most Water; </br>
 **2) ** : LC_763: Partition Labels </br>
 **3)**[slidinhg window summary: deque ](https://leetcode.com/problems/longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit/discuss/609771/JavaC%2B%2BPython-Deques-O(N)) 
-LC_239: Sliding Window Maximum:  [link](https://www.geeksforgeeks.org/sliding-window-maximum-maximum-of-all-subarrays-of-size-k/);
+LC_239: Sliding Window Maximum:  [link](https://www.geeksforgeeks.org/sliding-window-maximum-maximum-of-all-subarrays-of-size-k/); LC_1425: Constrained Subsequence Sum. 
 
 
 #### Tries
