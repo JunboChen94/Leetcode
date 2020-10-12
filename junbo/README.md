@@ -44,7 +44,7 @@ LC_211: Design Add and Search Words Data Structure
 
 
 #### Binary Search
-LC_278: First Bad version
+LC_278: First Bad version; LC_34: Find First and Last Position of Element in Sorted Array;
 
 #### Binary Search Tree
 LC_938: Range Sum of BST; LC_528: Random Pick with Weight. 
