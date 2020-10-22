@@ -68,7 +68,7 @@ LC_670: Maximum Swap
 LC_543: Diameter of Binary Tree; 
 
 #### DP:
-LC_198: House Robber;
+LC_198: House Robber; LC_115: Distinct Subsequences;
 
 #### MAX-HEAP:
 LC_692. Top K Frequent Words; LC_973: K Cloest Points to Origin;
