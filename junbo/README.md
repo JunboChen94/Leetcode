@@ -43,6 +43,9 @@ LC_992: Subarrays with K Different Integers (atMost);
 #### Tries
 LC_211: Design Add and Search Words Data Structure
 
+#### Bucket Sort
+LC_164: Maximum Gap
+
 
 #### Binary Search
 LC_278: First Bad version; LC_34: Find First and Last Position of Element in Sorted Array;
