@@ -14,7 +14,8 @@ LC_9: Palindrome number;
 **1) level-order:**  LC_102: Binary Tree Level Order Traversal; LC_199: Binary Tree rigfht Side View; LC_987: Vertical Order Traversal of a Binary Tree;  LC_339: Nested List Weight Sum<br />
 **2) In-order:** LC_94: Binary Tree Inorder Traversal; LC_173; Binary Search Tree Iterator; LC_404: Sum of Left Leaves<br />
 **3) Pre-order:** LC_144: Binary Tree Preorder Traversal; <br />
-**3) Post-order:** LC_145: Binary Tree Postorder Traversal; 
+**4) Post-order:** LC_145: Binary Tree Postorder Traversal; 
+**5) BFS** LC_1197: Minimum Knight Moves;
 
 #### DFS + Union Find 
 LC_200: Number of Islands;
