@@ -1,7 +1,8 @@
 # Leetcode-Junbo-Note
 #### Add/Merge
 **1) add number:**LC_2: Add Two Number; LC_415: Add String; LC_67: Add Binary; <br />
-**2) merge array:**LC_88: Merge Sorted Array; 
+**2) merge array:**LC_88: Merge Sorted Array;  <br />
+**3) intervals:** LC_57: Insert Interval; 
 
 #### Parentheses
 LC_20: Valid Paranthesis; 
@@ -21,7 +22,7 @@ LC_9: Palindrome number;
 LC_200: Number of Islands;
 
 #### String/Array Causal-Related
-LC_13: Roman to Integer; LC_819:  Most Common Word;
+LC_13: Roman to Integer; LC_819:  Most Common Word; LC_1290:  Convert Binary Number in a Linked List to Integer; 
 
 #### HashTable
 **1) sum:** LC_1: Two Sum; LC_560: Subarray Sum Equals K; LC_523:Continuous Subrrary Sum; LC_242: Valid Anagram <br />
@@ -60,7 +61,7 @@ LC_215: Kth Largest Element in an Array; LC_973: K Cloest Points to Origin
 [Parentheses questions](#parentheses); LC_636: Exclusive Time of Functions
 
 #### Sort
-LC_937: Reorder Data in Log Files; LC-692. Top K Frequent Words; LC_1152: Analyze User Website Visit Pattern; LC_57; 
+LC_937: Reorder Data in Log Files; LC-692. Top K Frequent Words; LC_1152: Analyze User Website Visit Pattern; LC_57: Insert Interval; 
 
 #### Reservoir Sampling [link](https://zhuanlan.zhihu.com/p/29178293)
 LC_398: Random Pick Index; LC_382: Linked List Random Node
