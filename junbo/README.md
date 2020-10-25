@@ -74,6 +74,9 @@ LC_543: Diameter of Binary Tree; LC_526: Beautiful Arrangement;
 #### DP:
 LC_198: House Robber; LC_115: Distinct Subsequences; LC_526: Beautiful Arrangement; 
 
+#### Greedy:
+LC_991: Broken Calculator; 
+
 #### MAX-HEAP:
 LC_692. Top K Frequent Words; LC_973: K Cloest Points to Origin;
 
