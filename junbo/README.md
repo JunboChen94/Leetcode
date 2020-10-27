@@ -22,7 +22,7 @@ LC_9: Palindrome number;
 LC_200: Number of Islands;
 
 #### String/Array Causal-Related
-LC_13: Roman to Integer; LC_819:  Most Common Word; LC_1290:  Convert Binary Number in a Linked List to Integer; 
+LC_13: Roman to Integer; LC_819:  Most Common Word; LC_1290:  Convert Binary Number in a Linked List to Integer; LC_206: recerve LinkedList
 
 #### HashTable
 **1) sum:** LC_1: Two Sum; LC_560: Subarray Sum Equals K; LC_523:Continuous Subrrary Sum; LC_242: Valid Anagram <br />
@@ -44,10 +44,6 @@ LC_992: Subarrays with K Different Integers (atMost);
 #### Tries
 LC_211: Design Add and Search Words Data Structure
 
-#### Bucket Sort
-LC_164: Maximum Gap
-
-
 #### Binary Search
 LC_278: First Bad version; LC_34: Find First and Last Position of Element in Sorted Array;
 
@@ -58,10 +54,13 @@ LC_938: Range Sum of BST; LC_528: Random Pick with Weight.
 LC_215: Kth Largest Element in an Array; LC_973: K Cloest Points to Origin
 
 #### Stack
-[Parentheses questions](#parentheses); LC_636: Exclusive Time of Functions
+[Parentheses questions](#parentheses); LC_636: Exclusive Time of Functions; LC_20: valid parentheses;
 
 #### Sort
 LC_937: Reorder Data in Log Files; LC-692. Top K Frequent Words; LC_1152: Analyze User Website Visit Pattern; LC_57: Insert Interval; 
+
+#### Bucket Sort
+LC_164: Maximum Gap
 
 #### Reservoir Sampling [link](https://zhuanlan.zhihu.com/p/29178293)
 LC_398: Random Pick Index; LC_382: Linked List Random Node
