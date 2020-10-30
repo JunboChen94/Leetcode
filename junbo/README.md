@@ -54,7 +54,7 @@ LC_938: Range Sum of BST; LC_528: Random Pick with Weight; LC_33: Search in Rota
 LC_215: Kth Largest Element in an Array; LC_973: K Cloest Points to Origin
 
 #### Stack
-[Parentheses questions](#parentheses); LC_636: Exclusive Time of Functions; LC_20: valid parentheses;  LC_1130: Minimum Cost Tree From Leaf Values;
+[Parentheses questions](#parentheses); LC_636: Exclusive Time of Functions; LC_20: valid parentheses;  LC_1130: Minimum Cost Tree From Leaf Values; LC_496: Next Greater Element I;
 
 #### Sort
 LC_937: Reorder Data in Log Files; LC-692. Top K Frequent Words; LC_1152: Analyze User Website Visit Pattern; LC_57: Insert Interval; 
