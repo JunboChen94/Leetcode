@@ -69,7 +69,7 @@ LC_398: Random Pick Index; LC_382: Linked List Random Node
 LC_670: Maximum Swap; LC_62. Unique Paths; 
 
 #### Backtracing:
-LC_543: Diameter of Binary Tree; LC_526: Beautiful Arrangement; 
+LC_543: Diameter of Binary Tree; LC_526: Beautiful Arrangement; LC_980:  Unique Paths III;
 
 #### DP:
 LC_198: House Robber; LC_115: Distinct Subsequences; LC_526: Beautiful Arrangement;  LC_62. Unique Paths; LC_63. Unique Paths II;
